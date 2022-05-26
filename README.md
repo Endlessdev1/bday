@@ -10,26 +10,21 @@ Happy Birthday wish code by python
 ### Installetion-
 - Run the commands -
 
+
+
 ```
 pkg update && pkg upgrade -y 
-```
-```
 pkg install python -y 
-```
 pkg install git -y 
-```
-```
 git clone https://github.com/Endlessdev1/bday.git
-```
-```
 cd bday 
-```
-```
 chmod +x *
-```
-```
 Python bday.py
 ```
+
+
+
+
 
 
 
