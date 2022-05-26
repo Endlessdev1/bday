@@ -1,6 +1,6 @@
 Happy Birthday wish code by python
 
-### Viwe Screenshot
+### View Screenshot
 
 ![Endlessdev](https://user-images.githubusercontent.com/84754708/167759505-5059b9ee-54de-46ac-a041-51badbdcce51.jpeg)
 
